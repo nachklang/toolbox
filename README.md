@@ -1,2 +1,2 @@
 # toolbox
-Different tools for development
+Different tools for comfortable development
